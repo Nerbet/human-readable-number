@@ -182,7 +182,447 @@ module.exports = function toReadable (number) {
         name = name1 + name2;
         return name;
         }
+        }
 
+        if(digits[1] == 3)
+        {
+            name1 = "thirty";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
+        }
+
+        if(digits[1] == 4)
+        {
+            name1 = "forty";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
+        }
+
+        if(digits[1] == 5)
+        {
+            name1 = "fifty";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
+        }
+
+        if(digits[1] == 6)
+        {
+            name1 = "sixty";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
+        }
+
+        if(digits[1] == 7)
+        {
+            name1 = "seventy";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
+        }
+
+        if(digits[1] == 8)
+        {
+            name1 = "eighty";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
+        }
+
+        if(digits[1] == 9)
+        {
+            name1 = "ninety";
+            if(digits[0] == 0)
+        {
+        return name1;
+        }
+        if(digits[0] == 1)
+        {
+        name2 = " one";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 2)
+        {
+        name2 = " two";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 3)
+        {
+        name2 = " three";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 4)
+        {
+        name2 = " four";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 5)
+        {
+        name2 = " five";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 6)
+        {
+        name2 = " six";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 7)
+        {
+        name2 = " seven";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 8)
+        {
+        name2 = " eight";
+        name = name1 + name2;
+        return name;
+        }
+        if(digits[0] == 9)
+        {
+        name2 = " nine";
+        name = name1 + name2;
+        return name;
+        }
         }
     }
     if (digits.length == 3)
